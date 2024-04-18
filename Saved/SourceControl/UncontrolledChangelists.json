@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/aryanvaswani/Documents/College/CS 415/CS415FinalProject/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"/Users/aryanvaswani/Documents/College/CS 415/CS415FinalProject/Content/Hour_of_Code/Blueprints/BP_door_lever.uasset",
+				"/Users/aryanvaswani/Documents/College/CS 415/CS415FinalProject/Content/NewLevelMP2.umap",
+				"/Users/aryanvaswani/Documents/College/CS 415/CS415FinalProject/Content/BP_Pursuer.uasset",
+				"/Users/aryanvaswani/Documents/College/CS 415/CS415FinalProject/Content/LearningKit_Games/Blueprints/BaseClasses/Master_Pickup_BP.uasset",
+				"/Users/aryanvaswani/Documents/College/CS 415/CS415FinalProject/Content/Score.uasset",
 				"/Users/madhav/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/NewLevelMP2.umap",
 				"/Users/madhav/Documents/Unreal Projects/UnrealLearningKit 5.3/Content/BP_Pursuer.uasset",
 				"/Users/madhav/Downloads/UnrealLearningKit 5.3/Content/LearningKit_Robots/Blueprints/WorldBuilding/BP_FloatIsland_b.uasset",
